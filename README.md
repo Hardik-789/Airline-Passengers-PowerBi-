@@ -20,4 +20,4 @@ The goal is to transform raw flight, ticket, and passenger datasets into an inte
 .Segmented performance analysis (Best vs. To Be Improved Flights)
 .Secure access via Row-Level Security (RLS)
 
-|Comprehensive task-wise details of the project, accompanied by relevant screenshots, are provided in the PDF document (Project PBI)|(https://github.com/Hardik-789/Airline-Passengers-PowerBi-/blob/main/Project%20PBI.pdf)
+[| Comprehensive task-wise details of the project, accompanied by relevant screenshots, are provided in the PDF document (Project PBI) |](https://github.com/Hardik-789/Airline-Passengers-PowerBi-/blob/main/Project%20PBI.pdf)
