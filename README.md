@@ -7,17 +7,19 @@ The goal is to transform raw flight, ticket, and passenger datasets into an inte
 
 ⚙️ Tools & Technologies
 
-.Power BI Desktop
-.Power Query
-.DAX (Data Analysis Expressions)
-.Power BI Service
+-Power BI Desktop  
+-Power Query  
+-DAX (Data Analysis Expressions)  
+-Power BI Service  
 
 🖼️ Final Output(Outcomes)
 
-.A fully interactive Power BI dashboard with:
-.Dynamic filters by Airline and Destination
-.Key metrics: Total Flights, Tickets, and Passengers
-.Segmented performance analysis (Best vs. To Be Improved Flights)
-.Secure access via Row-Level Security (RLS)
+A fully interactive Power BI dashboard with:  
+-Dynamic filters by Airline and Destination  
+-Key metrics: Total Flights, Tickets, and Passengers  
+-Segmented performance analysis (Best vs To Be Improved Flights)  
+-Secure access via Row-Level Security (RLS)  
+
+📊 [Dashboard Snapshot](https://github.com/Hardik-789/Airline-Passengers-PowerBi-/blob/main/Dashboard.png)
 
 [| Comprehensive task-wise details of the project, accompanied by relevant screenshots, are provided in the PDF document (Project PBI) |](https://github.com/Hardik-789/Airline-Passengers-PowerBi-/blob/main/Project%20PBI.pdf)
